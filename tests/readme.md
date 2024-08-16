@@ -1,4 +1,4 @@
-# UI Sanity testing using play-wright
+# UI Sanity testing using playwright
 
 ## Prepare environment with docker to test final product.
 
